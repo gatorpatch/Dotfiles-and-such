@@ -1,2 +1,4 @@
-#! /bin/sh
+#! /bin/bash
+PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
 /usr/bin/feh --bg-fill --randomize --no-fehbg ~/Pictures/wallpaper/*
